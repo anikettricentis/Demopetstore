@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="birds" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="269215bb-1230-47df-9d76-3988c790fb67" weightsEnabled="false">
+    <weighted-embedded-action uid="ebfe3804-6c5c-455e-a0ff-17fe182fd84b"/>
+</basic-logical-action-container>

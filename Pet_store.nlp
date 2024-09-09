@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Pet_store
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2024.1.1
+project.is-open-test-settings-after-upload=false
+project.id=bcf2bdc1-d434-4abf-8a80-ba50c46b757e
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/anikettricentis/Demopetstore.git
